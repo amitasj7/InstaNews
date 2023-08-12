@@ -2,8 +2,8 @@
 
 # Screenshot
 
-            ![Screenshot 2023-08-12 225853](https://github.com/amitasj7/Top-20-latest-NEWS-App./assets/100951495/d5bc2b33-0bff-48f5-b13b-c4ca496aee5b)
-            ![Screenshot 2023-08-12 225917](https://github.com/amitasj7/Top-20-latest-NEWS-App./assets/100951495/bece491b-d651-40a5-8a41-866796e6a2ec)
+![Screenshot 2023-08-12 225853](https://github.com/amitasj7/Top-20-latest-NEWS-App./assets/100951495/d5bc2b33-0bff-48f5-b13b-c4ca496aee5b)   
+![Screenshot 2023-08-12 225917](https://github.com/amitasj7/Top-20-latest-NEWS-App./assets/100951495/bece491b-d651-40a5-8a41-866796e6a2ec)
 
 
 # Pubspec.yaml file dependencies -> 
